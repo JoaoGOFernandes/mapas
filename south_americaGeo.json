@@ -153,8 +153,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "BR",
-        "id": "GY",
+        "name": "Brasil",
+        "id": "BR",
         "cartodb_id": 33,
         "created_at": "2013-11-27T20:16:22+0100",
         "updated_at": "2013-11-27T20:16:23+0100"
